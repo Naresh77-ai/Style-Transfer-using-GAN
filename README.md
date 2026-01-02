@@ -15,3 +15,7 @@ The Sequence of the Project:
 - Model Building
 - Model Training
 - Generating a GIF
+
+✅ Final Insights & Conclusion
+
+After training the GAN-based style transfer model for 300 epochs, the generated outputs show that the model successfully learned to translate images into the target style while preserving the core anatomical structure. The generated images retain key spatial patterns from the inputs (overall brain shape and major intensity regions) while adopting the target-domain texture/contrast characteristics—indicating stable convergence and effective feature mapping between the two domains.
